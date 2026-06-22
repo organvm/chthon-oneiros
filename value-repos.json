@@ -1,0 +1,16 @@
+{
+  "description": "Ranked tier of ORGANVM repositories with discovered latent value. Repos are promoted here once a value thesis is recorded in their DISCOVERY.md.",
+  "schema_version": 1,
+  "updated": "2026-06-22",
+  "repos": [
+    {
+      "repo": "organvm/chthon-oneiros",
+      "promoted": "2026-06-22",
+      "organ": "ORGAN-II",
+      "value_class": "reusable-capability",
+      "thesis": "The Director Engine — a deterministic, dial-parameterized creative-generation capability (three-axis dial schema + modulated system prompt + fixed narrative grammar + automated linter) proven across two seasons; packageable as a consumable estate asset for Organ II's generative siblings. Secondary: publishable serialized-horror IP with an existing pitch deck.",
+      "first_task": "Extract and package the Director Engine into engine/engine.json — a versioned contract wiring director_persona.md, core_loop.md, physics.md, and giallo_check.py into one callable generate+validate module.",
+      "discovery": "DISCOVERY.md"
+    }
+  ]
+}
